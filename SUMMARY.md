@@ -1,4 +1,4 @@
-[简介](README.md)
+* [简介](README.md)
 * [第一章：书写规范](ch1/main.md)
  - [1. 缩进、换行、和文件编码](ch1/section1.md)
  - [2. 空格使用规范](ch1/section2.md)

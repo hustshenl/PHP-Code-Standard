@@ -1,1 +1,2 @@
-# php-code-standard
+# PHP 编码规范
+

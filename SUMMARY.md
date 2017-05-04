@@ -31,5 +31,5 @@
  - [6. 控制器创建原则](ch6/section6.md)
  - [7. 类库与模型创建原则](ch6/section7.md)
  - [8. 代码注释规范](ch6/section8.md)
- - [9. 跨站脚本XSS](ch6/section9.md)
+ - [9. 项目维护方案](ch6/section9.md)
 * [结束](end/main.md)
